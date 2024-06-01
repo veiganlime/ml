@@ -4,7 +4,7 @@
 - Decision Tree
 - Random Forest
 
-# Image regonition
-- model001: Basic OCR Model with MNIST Dataset build on TensorFlow framefork
-- model002: Basic OCR Model with EMNIST Dataset build on TensorFlow framefork 
+## Image regonition
+- model001: Basic OCR Model trained on the MNIST Datase, build on the TensorFlow framework
+- model002: Basic OCR Model trained on the EMNIST Dataset, build on the TensorFlow framework 
 
