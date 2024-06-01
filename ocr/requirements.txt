@@ -1,0 +1,4 @@
+tesnorfow
+matplotlib
+numpy
+cv2

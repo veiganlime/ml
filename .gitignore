@@ -1,0 +1,6 @@
+env_tensor
+.DS_Store
+ocr/images
+ocr/logs
+cr/model001_epoch5.h5
+cr/model001_epoch30.h5
