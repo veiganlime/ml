@@ -1,6 +1,8 @@
 env_tensor
 .DS_Store
+dataset
 ocr/images
 ocr/logs
 ocr/model001_epoch3.h5
 ocr/model001_epoch30.h5
+ocr/model002_epoch3.h5
